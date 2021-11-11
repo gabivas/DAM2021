@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar4_1086</string>
+
+    <string-array name="adaugare_motorizare">
+        <item>Benzina</item>
+        <item>Diesel</item>
+        <item>Electric</item>
+    </string-array>
+</resources>

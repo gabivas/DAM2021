@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar3_1088</string>
+
+    <string-array name="valori_retea">
+        <item>TREIG</item>
+        <item>PATRUG</item>
+        <item>CINCIG</item>
+    </string-array>
+</resources>

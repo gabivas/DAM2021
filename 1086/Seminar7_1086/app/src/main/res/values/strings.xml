@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Seminar7</string>
+    <string name="valoare_default_row_view">-</string>
+    <string name="template_data">%1$d/%2$d</string>
+</resources>

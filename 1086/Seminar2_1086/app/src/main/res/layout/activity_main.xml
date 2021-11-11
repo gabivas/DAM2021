@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+
+        <ImageView
+            android:id="@+id/imageViewEUR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/eur" />
+
+        <TextView
+            android:id="@+id/textViewEUR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/eur" />
+
+        <EditText
+            android:id="@+id/editTextEUR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+            android:id="@+id/imageViewUSD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/usd" />
+
+        <TextView
+            android:id="@+id/textViewUSD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/usd" />
+
+        <EditText
+            android:id="@+id/editTextUSD"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <ImageView
+        android:id="@+id/imageViewGBP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/gbp" />
+
+        <TextView
+            android:id="@+id/textViewGBP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/gbp" />
+
+        <EditText
+            android:id="@+id/editTextGBP"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <ImageView
+        android:id="@+id/imageViewXAU"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/xau" />
+
+        <TextView
+            android:id="@+id/textViewXAU"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/xau" />
+
+        <EditText
+            android:id="@+id/editTextXAU"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/buttonAfisare"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/afiseaza" />
+
+        <Spinner
+            android:id="@+id/spinner1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:id="@+id/buttonSalveaza"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/salveaza" />
+
+    </LinearLayout>
+</ScrollView>

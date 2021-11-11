@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Seminar2_1088</string>
+    <string name="eur">EURO:</string>
+    <string name="usd">USD:</string>
+    <string name="gbp">GBP:</string>
+    <string name="xau">XAU:</string>
+    <string name="afiseaza_curs_valutar">Afiseaza curs valutar</string>
+    <string name="salveaza">Salveaza</string>
+</resources>
