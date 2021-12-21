@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="optiuni_dimensiune">
+        <item>MIC</item>
+        <item>MEDIU</item>
+        <item>MARE</item>
+    </string-array>
+</resources>

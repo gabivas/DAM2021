@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495558936076",
+    "project_id": "seminar12-1088-2",
+    "storage_bucket": "seminar12-1088-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495558936076:android:f0b0256f1aaf35f8bb9029",
+        "android_client_info": {
+          "package_name": "ro.ase.grupa1086.seminar12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495558936076-43dmk0l4f4e5b8d3pe0b6722p7e9hprg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvIBI7O6xHtl2jK4U2Lvn3-2z26ih30bU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495558936076-43dmk0l4f4e5b8d3pe0b6722p7e9hprg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
